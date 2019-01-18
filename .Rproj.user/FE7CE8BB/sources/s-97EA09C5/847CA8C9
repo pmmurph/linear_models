@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547825440138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2389878603",
+    "id" : "847CA8C9",
+    "lastKnownWriteTime" : 1547835562,
+    "last_content_update" : 1547835562123,
+    "path" : "C:/Users/murphy.patrick/WORK/docs/linear_models/lab1.R",
+    "project_path" : "lab1.R",
+    "properties" : {
+        "cursorPosition" : "22,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
